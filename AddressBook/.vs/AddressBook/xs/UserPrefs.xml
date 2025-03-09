@@ -1,7 +1,0 @@
-﻿<Properties StartupConfiguration="{EF207081-53EC-43A8-9B49-FCA7A39F2DDC}|Default">
-  <MonoDevelop.Ide.ItemProperties.ModelLayer FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.AddressBook FirstBuild="True" PreferredExecutionTarget="/Applications/Brave Browser.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.RepositoryLayer FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.BusinessLayer FirstBuild="True" />
-</Properties>
